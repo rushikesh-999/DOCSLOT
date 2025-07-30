@@ -6,7 +6,7 @@ import Doctor from './pages/Doctor'; // Updated to match actual file name casing
 import Login from './pages/Login';
 import Myappointments from './pages/Myappointments';
 import About from './pages/About';
-import Contact from './pages/contact';
+import Contact from './pages/Contact';
 import Myprofile from './pages/Myprofile'; // Corrected spelling from 'Myproflie'
 import Appointment from './pages/Appointment';
 
