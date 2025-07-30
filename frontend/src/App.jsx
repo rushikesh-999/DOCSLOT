@@ -2,11 +2,11 @@ import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
 import Home from './pages/Home';
-import Doctor from './pages/doctor'; // Updated to match actual file name casing
+import Doctor from './pages/Doctor'; // Updated to match actual file name casing
 import Login from './pages/Login';
 import Myappointments from './pages/Myappointments';
 import About from './pages/about';
-import Contact from './pages/Contact';
+import Contact from './pages/contact';
 import Myprofile from './pages/Myprofile'; // Corrected spelling from 'Myproflie'
 import Appointment from './pages/Appointment';
 
