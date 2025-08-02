@@ -5,7 +5,9 @@ import mainImg from '../assets/main.png'; // adjust path as needed
 
 
 const Header = () => {
-  return (
+return (
+  
+
     <div className='flex flex-col md:flex-row flex-wrap bg-blue-500 rounded-lg px-6 md:px-10 lg:px-20'>
 
       {/* --------- Left Side --------- */}
@@ -31,7 +33,8 @@ const Header = () => {
       </div>
 
     </div>
-  );
+  
+);
 };
 
 export default Header;
